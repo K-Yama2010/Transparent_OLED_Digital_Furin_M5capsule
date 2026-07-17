@@ -8,6 +8,6 @@ M5cardputer側のファームウエアは下記アドレスをご覧ください
 
 ![](images/Transparent OLED Digital Furin1.jpg)
 
-![](images/Transparent OLED Digital Furin1.jpg)
+![](images/Transparent OLED Digital Furin2.jpg)
 
 
