@@ -5,7 +5,7 @@ A digital wind chime that visualizes the "coolness" of Japanese summer through f
 Transparent OLED Digital Furin 　(Japanese Wind Chime)　M5Capsule側のファームウェアです。
 
    
-M5cardputer側のファームウエアは下記アドレスをご覧ください。
+M5cardputer ADV側のファームウエアは下記アドレスをご覧ください。
 
 
 (https://github.com/K-Yama2010/Transparent_OLED_Digital_Furin_M5cardputer)
